@@ -1,6 +1,6 @@
 # 🚀 LocalPrompt - AI Prompt Engineer
 
-PromptMate is an AI-powered tool designed to **refine and optimize** AI prompts, helping users generate high-quality, structured prompts that work effectively with advanced AI models.  
+LocalPrompt is an AI-powered tool designed to **refine and optimize** AI prompts, helping users generate high-quality, structured prompts that work effectively with advanced AI models.  
 
 This tool is built to work **locally** with **Mistral 7B**, ensuring privacy and efficiency without relying on external cloud services. It is ideal for **AI prompt engineers, machine learning developers, and researchers** who want to **run AI models offline**.
 
@@ -18,7 +18,7 @@ This tool is built to work **locally** with **Mistral 7B**, ensuring privacy and
 
 ## 📂 Folder Structure
 ```
-PromptMate/
+LocalPrompt/
 │️—— app/
 │   ├—— api/                  # API Routes
 │   │   ├—— prompt.py         # Prompt Engineering API
