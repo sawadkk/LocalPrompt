@@ -1,6 +1,14 @@
 # 🚀 PromptMate - AI Prompt Engineer
 
-PromptMate is an AI-powered tool designed to **refine and optimize** AI prompts, helping users generate high-quality, structured prompts that work effectively with advanced AI models.
+PromptMate is an AI-powered tool designed to **refine and optimize** AI prompts, helping users generate high-quality, structured prompts that work effectively with advanced AI models.  
+
+This tool is built to work **locally** with **Mistral 7B**, ensuring privacy and efficiency without relying on external cloud services. It is ideal for **AI prompt engineers, machine learning developers, and researchers** who want to **run AI models offline**.
+
+## 🔍 Why Use Local AI Models?
+- 🔹 **Privacy & Security** - No external API calls, all processing happens on your own machine  
+- 🔹 **Cost-Effective** - Avoid expensive API costs by running AI models **completely offline**  
+- 🔹 **Customization** - Fine-tune the model and modify it for **specific use cases**  
+- 🔹 **Performance** - Run **low-latency** AI models optimized for your **local hardware (CPU/GPU)**  
 
 ## 📌 Features
 - ✅ **Refines AI Prompts** - Converts rough ideas into **high-quality, structured prompts**  
@@ -93,5 +101,9 @@ uvicorn app.main:app --reload
 4. Push to branch: `git push origin feature-name`  
 5. Open a **Pull Request** 🎉  
 
+
+## 🔍 Keywords & Tags
+`local AI models` • `offline AI inference` • `FastAPI AI deployment` • `Mistral 7B` • `self-hosted AI`  
+`run AI models locally` • `private AI models` • `prompt engineering tool` • `open-source AI assistant`  
 
 
