@@ -1,6 +1,6 @@
-# 🚀 PromptMate - AI Prompt Engineer
+# 🚀 LocalPrompt - AI Prompt Engineer
 
-PromptMate is an AI-powered tool designed to **refine and optimize** AI prompts, helping users generate high-quality, structured prompts that work effectively with advanced AI models.
+LocalPrompt is an AI-powered tool designed to **refine and optimize** AI prompts, helping users generate high-quality, structured prompts that work effectively with advanced AI models.
 
 ## 📌 Features
 - ✅ **Refines AI Prompts** - Converts rough ideas into **high-quality, structured prompts**  
@@ -10,7 +10,7 @@ PromptMate is an AI-powered tool designed to **refine and optimize** AI prompts,
 
 ## 📂 Folder Structure
 ```
-PromptMate/
+LocalPrompt/
 │️—— app/
 │   ├—— api/                  # API Routes
 │   │   ├—— prompt.py         # Prompt Engineering API
@@ -30,8 +30,8 @@ PromptMate/
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/sawadkk/PromptMate.git
-cd PromptMate
+git clone https://github.com/sawadkk/LocalPrompt.git
+cd LocalPrompt
 ```
 
 ### **2️⃣ Create a Virtual Environment**

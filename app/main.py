@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from app.api import prompt
 
 # ✅ Initialize FastAPI App
-app = FastAPI(title="PromptMate - AI Prompt Engineer", version="1.0")
+app = FastAPI(title="LocalPrompt - AI Prompt Engineer", version="1.0")
 
 # ✅ Include API routes
 app.include_router(prompt.router)
