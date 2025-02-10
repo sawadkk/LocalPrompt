@@ -1,0 +1,15 @@
+# Core FastAPI Dependencies
+fastapi==0.110.0
+uvicorn==0.27.1
+
+# Llama.cpp for Mistral 7B
+llama-cpp-python==0.3.7
+
+# Environment & Config Management
+python-dotenv==1.0.1
+pydantic==2.6.1
+
+# Optional (Recommended)
+anyio==4.8.0  # Async I/O support for FastAPI
+starlette==0.36.3  # Required for FastAPI framework internals
+diskcache==5.6.3  # Caching for optimized model calls

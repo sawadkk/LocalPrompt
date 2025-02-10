@@ -1,0 +1,32 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.swp
+*.swo
+*.DS_Store
+
+# Ignore environment files
+.env
+.vscode/
+.idea/
+
+# Ignore virtual environment
+venv/
+env/
+.ai_env/
+
+# Ignore model files (since they are large)
+models/
+
+# Ignore log files
+logs/
+*.log
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore Jupyter Notebooks cache
+.ipynb_checkpoints/
+
+# Ignore Uvicorn debug logs
+*.uvicorn.log
